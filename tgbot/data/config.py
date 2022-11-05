@@ -36,5 +36,5 @@ def get_admins():
 
 # УДАЛИШЬ ИЛИ ИЗМЕНИШЬ ССЫЛКИ НА ДОНАТ, КАНАЛ И ТЕМУ БОТА - КАСТРИРУЮ БЛЯТЬ
 BOT_DESCRIPTION = f'<b>⚜ Bot Version: <code>{BOT_VERSION}</code>\n' \
-                  f'♻ Bot created by @ynwais\n' \
-                 
+                  f'♻ Bot created by @ynwais\n</b>'
+                  
